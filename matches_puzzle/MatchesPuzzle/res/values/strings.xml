@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Matches Puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_font">HOBOSTD.OTF</string>
+    <string name="siteUrl">http://www.matchespuzzle.freeiz.com/matches_puzzle/</string>
+    <string name="adBannerUnitId">ca-app-pub-5801665007208244/5385666019</string>
+    <string name="adInterstitialUnitId">ca-app-pub-5801665007208244/5189982012</string>  
+
+</resources>

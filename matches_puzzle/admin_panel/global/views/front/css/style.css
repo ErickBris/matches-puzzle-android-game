@@ -1,0 +1,51 @@
+#xValue, #yValue, #rValue, #operator, #equal {
+    max-width: 114px;
+    display:inline-block;             
+}
+
+span.matchLeft {                               
+    float: left;                
+}
+
+span.matchRight {              
+    float: right;                
+}
+#equation {
+    overflow: auto; 
+    margin-top: 60px;
+}
+#operator {
+    overflow: auto;
+    margin-bottom: 10%
+}
+
+#equal {
+    overflow: auto;
+    margin-bottom: 13%;
+}      
+
+#help {   
+    padding-top: 25px;
+    color: #FFFFFF;
+} 
+
+
+.login-box {
+    /*                background-color: #959191;              */
+/*    background-color: #5f5c5c;       */
+    background-image: url("../img/equation_bg.png");
+    width: 678px;
+    height: 618px;
+}
+
+.row-fluid .span5 {
+/*    width: 55.170940171000005%;    */
+    
+/*width: auto;*/
+
+
+    
+}
+a {
+    color: #fff;
+}
